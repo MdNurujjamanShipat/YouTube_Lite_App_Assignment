@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 color: AppColors.youtubePrimary,
                 borderRadius: BorderRadius.circular(6),
               ),
-              child: Icon(Icons.play_arrow_rounded),
+              child: Icon(Icons.play_arrow_rounded, color: Colors.white),
             ),
             SizedBox(width: 8),
             Text(
